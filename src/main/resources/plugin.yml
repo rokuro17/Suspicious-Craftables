@@ -1,0 +1,4 @@
+name: Craftable_Sus
+version: '${project.version}'
+main: rokuro.craftable_sus.Craftable_Sus
+api-version: '1.20'
